@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/robertoramos-accenture/aem-boilerplate
+    type: markup
